@@ -1,6 +1,6 @@
 Welcome. My name is Laszlo, and I'm an IT professional from right outside of DC.
 
-This page is a home for code from personal projects and experiements I've been developing over the years. There's not much here now, but over the next months, I'll be adding new repositories. 
+This page is a home for code from personal projects and experiements I've been developing over the years. There's not much here now, but over the next months I'll be adding new repositories. 
 
 Coming up: more Python code as I work through cert course and a lots and lots of Docker files. 
 
