@@ -1,8 +1,4 @@
-Welcome. My name is Laszlo, and I'm an IT professional who lives in the suburbs of Washington, DC.
-
-This page is a home for code from personal projects and experiements I've been developing over the years. There's not much here now, but over the next months I'll be adding new repositories. 
-
-Coming up: more Python code as I work through a cert course and a lots and lots of Docker files. 
+Welcome. My name is Laszlo, and I'm an IT professional and graduate student who lives in the Washington, DC area. 
 
 <!--
 **LaszloTaba/LaszloTaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
